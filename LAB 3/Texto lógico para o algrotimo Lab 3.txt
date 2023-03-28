@@ -1,0 +1,2 @@
+Ao iniciar o programa a primeira led é atividada, com um delay de forma a tornar a sua ativação visível.
+Assim que o delay da 1ª led acaba a 2ª led é ativada, assim que o delay da 2ª led terminar  é ativada a 3º e assim sucessivamente. 
